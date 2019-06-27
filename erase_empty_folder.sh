@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 printf "DO NOT RUN THIS WITH SUDO\n"
 printf "THIS WILL RUN ON EVERY DIRECTORY AND SUB-DIRECTORY\n\n"
 
