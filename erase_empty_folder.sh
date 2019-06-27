@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+#This branch is for testing only do not merge to master
+
 printf "DO NOT RUN THIS WITH SUDO\n"
 printf "THIS WILL RUN ON EVERY DIRECTORY AND SUB-DIRECTORY\n\n"
 
